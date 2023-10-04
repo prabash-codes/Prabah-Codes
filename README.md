@@ -18,7 +18,7 @@
 *I'm a computer science student at University of kelaniya. i am using GitHub to learn about software development.*
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=prabash-codes&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ## Education 
 

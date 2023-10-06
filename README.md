@@ -20,11 +20,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prabash-codes&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-## Education 
-
-
-
 ## School
+
+* Gurukula college kelaniya.
 
 
 ## UG Degree
@@ -34,11 +32,6 @@
 * **Degree** : BSc (Hons) in Computer Science 
 
 * **Address** : Dalugama, Kelaniya
-
-## To Do List
-
-* [x] Security
-* [x] UI
 
 ## Image
 
